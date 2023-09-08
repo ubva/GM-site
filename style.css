@@ -26,12 +26,12 @@ body{
     justify-content: space-between;
     padding: 20px;
 }
-.header-logo{
+/* .header-logo{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 700;
     font-size: 40px;
     color: darkblue;
-}
+} */
 .header-box__link{
    margin-right: 20px;
    color: grey; 
@@ -78,6 +78,9 @@ body{
 }
 
 @media only screen and ( max-width: 600px) {
+    .header-img{
+        width: 100px;
+    }
     .footer-wrapper{
         display: block;
         text-align: center;
