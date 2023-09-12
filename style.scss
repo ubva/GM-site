@@ -29,13 +29,19 @@ body{
     padding: 20px;
     /* position: relative; */
 }
-.header-img{
-    width: 200px;
+// .header-img{
+//     width: 200px;
+// }
+.header-logo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(4, 4, 99);
 }
 .header-btn{
     display: none;
-    background: transparent;
-    border: transparent;
+    background: none;
+    border: none;
     cursor: pointer;
 }
 .header-box{
@@ -83,6 +89,7 @@ body{
     color: rgb(4, 4, 99); 
 }
 .footer-left{
+    max-width: 100%;
     flex-direction: column;
 }
 .footer-icon{
@@ -109,6 +116,12 @@ body{
     }
 }
 @media only screen and ( max-width: 600px) {
+    .header-logo{
+        font-size: 22px;
+    }
+    .header-img{
+      width: 100px;
+    }
     .header-btn{
         display: block;
         cursor: pointer;
@@ -121,11 +134,11 @@ body{
         display: block;
         margin-top: 20px;
     }
-    .header-img{
-        width: 100px;
+    .footer-logo{
+        font-size: 24px;
     }
     .footer-wrapper{
-        display: block;
+        flex-direction: column;
         text-align: center;
     }
     .footer-left{
