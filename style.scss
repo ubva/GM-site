@@ -72,7 +72,68 @@ body{
     text-align: center;
     margin: 30px 0;
 }
+.hero__container{
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+.hero__title{
+    font-size: 36px;
+    text-align: center;
+    color: rgb(4, 4, 99);
+    margin: 15px 0;
+}
+.hero__img{
+    // width: 100%;
+    max-width: 900px;
+    height: 500px;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  .hero__active {
+    background-color: #717171;
+  }
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
 
+.login__inp{
+    width: 100%;
+    display: block;
+    padding: 10px;
+    margin: 15px 0;
+    border: 3px solid rgb(4, 4, 99);
+    border-radius: 10px;
+}
+.login__inp::placeholder{
+    font-size: 16px;
+}
+.login__btn{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(6, 6, 131);
+    border: 1px solid rgb(6, 6, 131);
+    box-shadow: 5px 5px 5px rgb(154, 153, 153);
+    color: #fff;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
 /* footer */
 .footer-wrapper{
     background-color: grey;
@@ -133,6 +194,19 @@ body{
     .header-box__link{
         display: block;
         margin-top: 20px;
+    }
+    .hero__title{
+        font-size: 22px;
+        margin: 10px 0;  
+    }
+    .hero__img{
+        width: 350px;
+        height: 200px;
+    }
+    .dot{
+        height: 8px;
+        width: 8px;
+        margin: 0 2px;
     }
     .footer-logo{
         font-size: 24px;
