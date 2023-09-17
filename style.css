@@ -90,13 +90,14 @@ body {
 
 .hero__title {
   font-size: 36px;
+  font-weight: 600;
   text-align: center;
   color: rgb(4, 4, 99);
   margin: 15px 0;
 }
 
 .hero__img {
-  max-width: 900px;
+  width: 800px;
   height: 500px;
 }
 
@@ -138,6 +139,51 @@ body {
     opacity: 1;
   }
 }
+.product__list {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product__static {
+  margin: 25px 0;
+  background-color: rgb(225, 220, 220);
+  padding: 15px;
+}
+
+.product__text {
+  font-weight: 500;
+  font-size: 20px;
+  color: gray;
+}
+
+.card__item {
+  border-radius: 20px;
+  width: 18rem;
+  height: 20rem;
+}
+
+.card__img {
+  border-radius: 15px 15px 0 0;
+}
+
+.card-title {
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+
+.card__box {
+  padding: 10px;
+  text-align: center;
+}
+
+.btn {
+  font-weight: 400;
+}
+
 .main-title__login {
   text-align: center;
   margin: 15px 0;
@@ -247,7 +293,7 @@ body {
     margin-top: 20px;
   }
   .hero__title {
-    font-size: 22px;
+    font-size: 20px;
     margin: 10px 0;
   }
   .hero__img {
@@ -258,6 +304,14 @@ body {
     height: 8px;
     width: 8px;
     margin: 0 2px;
+  }
+  .product__static {
+    margin: 15px 0;
+  }
+  .product__text {
+    font-weight: 400;
+    font-size: 18px;
+    color: gray;
   }
   .footer-logo {
     font-size: 24px;
