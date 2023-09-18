@@ -86,8 +86,8 @@ body{
     margin: 15px 0;
 }
 .hero__img{
-    // width: 100%;
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
     height: 500px;
 }
 .dot {
@@ -258,6 +258,11 @@ body{
         width: 8px;
         margin: 0 2px;
     }
+    .product__list{
+        margin: 0;
+        padding: 0;
+        flex-direction: column;
+    }
     .product__static{
         margin: 15px 0; 
      }
@@ -268,6 +273,8 @@ body{
     }
     .footer-list{
         width: 300px;
+        margin: 0;
+        padding: 0;
     }
     .footer-logo{
         font-size: 24px;
