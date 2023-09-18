@@ -154,8 +154,12 @@ body {
 }
 
 .product__text {
+  display: block;
+  text-align: center;
   font-weight: 500;
-  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  font-size: 22px;
   color: gray;
 }
 
@@ -228,10 +232,13 @@ body {
 }
 
 /* footer */
-.footer-wrapper {
+.footer {
   background-color: grey;
-  padding: 25px 35px;
   margin-top: 15px;
+  padding: 25px 35px;
+}
+
+.footer-wrapper {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -256,6 +263,7 @@ body {
 }
 
 .footer-list {
+  max-width: 300px;
   color: rgb(225, 220, 220);
 }
 
