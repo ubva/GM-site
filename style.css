@@ -263,7 +263,6 @@ body {
 }
 
 .footer-list {
-  max-width: 300px;
   color: rgb(225, 220, 220);
 }
 
@@ -320,6 +319,9 @@ body {
     font-weight: 400;
     font-size: 18px;
     color: gray;
+  }
+  .footer-list {
+    width: 300px;
   }
   .footer-logo {
     font-size: 24px;
