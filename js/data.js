@@ -33,7 +33,3 @@ function render(arr) {
     }
 }
 render(booksData)
-
-btn.addEventListener("click", ()=>{
-
-})
