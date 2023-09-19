@@ -169,6 +169,12 @@ const booksData = [
         "dataText":"Vehicle New Pregio"
     },
     {
+        "index": 31,
+        "dataImg" : "/images/data-imgs/steelball1.jpg",
+        "dataTitle": "Kom Corporation",
+        "dataText":"Steel Ball"
+    },
+    {
         "index": 29,
         "dataImg" : "/images/data-imgs/kiapump7.jpg",
         "dataTitle": "Kia Water Pump",
@@ -179,6 +185,132 @@ const booksData = [
         "dataImg" : "/images/data-imgs/kiapump8.jpg",
         "dataTitle": "Kia Water Pump",
         "dataText":"Vehicle Canival 2.5 (Gasoline)"
+    },
+    {
+        "index": 32,
+        "dataImg" : "/images/data-imgs/steelball2.jpg",
+        "dataTitle": "Kom Corporation",
+        "dataText":"Steel balls"
+    },
+    {
+        "index": 33,
+        "dataImg" : "/images/data-imgs/2kiapump1.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Grand Canival 2.9"
+    },
+    {
+        "index": 34,
+        "dataImg" : "/images/data-imgs/2kiapump2.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Sephia Dohc"
+    },
+    {
+        "index": 35,
+        "dataImg" : "/images/data-imgs/2kiapump3.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Towner"
+    },
+    {
+        "index": 36,
+        "dataImg" : "/images/data-imgs/2kiapump4.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Rio Sohc"
+    },
+    {
+        "index": 37,
+        "dataImg" : "/images/data-imgs/2kiapump5.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle hi-Besta"
+    },
+    {
+        "index": 38,
+        "dataImg" : "/images/data-imgs/2kiapump6.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Jumbo Titan 2.5"
+    },
+    {
+        "index": 39,
+        "dataImg" : "/images/data-imgs/2kiapump7.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Bongo 3"
+    },
+    {
+        "index": 40,
+        "dataImg" : "/images/data-imgs/2kiapump8.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Rio Dohc"
+    },
+    {
+        "index": 41,
+        "dataImg" : "/images/data-imgs/daewha1.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Seaming type| Mechanical fuel pump"
+    },
+    {
+        "index": 42,
+        "dataImg" : "/images/data-imgs/daewha2.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Seaming type| Intra filter"
+    },
+    {
+        "index": 43,
+        "dataImg" : "/images/data-imgs/daewha3.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Screw type| for racing car"
+    },
+    {
+        "index": 44,
+        "dataImg" : "/images/data-imgs/daewha4.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Screw type| for marine engine"
+    },
+    {
+        "index": 45,
+        "dataImg" : "/images/data-imgs/daewha5.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Push Rod type| for Cummins engine"
+    },
+    {
+        "index": 46,
+        "dataImg" : "/images/data-imgs/daewha6.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Push Rod type| Tandem Pump"
+    },
+    {
+        "index": 47,
+        "dataImg" : "/images/data-imgs/daewha7.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"E.F.I pump & module| Fuel Pump module"
+    },
+    {
+        "index": 48,
+        "dataImg" : "/images/data-imgs/daewha8.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"E.F.I pump & module| for passanger car and motor cycle"
+    },
+    {
+        "index": 49,
+        "dataImg" : "/images/data-imgs/daewha9.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Contact Point type| Transistor type pump"
+    },
+    {
+        "index": 50,
+        "dataImg" : "/images/data-imgs/daewha10.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Contact Point type| supplying to GM Korea"
+    },
+    {
+        "index": 51,
+        "dataImg" : "/images/data-imgs/daewha11.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Solenoid type| facet type In-line pump"
+    },
+    {
+        "index": 52,
+        "dataImg" : "/images/data-imgs/daewha12.jpg",
+        "dataTitle": "Daewha Fuel Pump Ind. Co., Ltd.",
+        "dataText":"Solenoid type| T/R pump"
     },
 ]
 
