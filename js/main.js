@@ -1,6 +1,8 @@
 let btn = document.querySelector(".header-btn")
 let list = document.querySelector(".header-box")
 
+alert('Scroll to the bottom(footer section) to contact us')
+
  btn.addEventListener('click', ()=>{
     list.classList.toggle('active')
  })
