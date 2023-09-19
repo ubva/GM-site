@@ -36,6 +36,54 @@ const booksData = [
         "dataTitle": "Hyundai Water Pump",
         "dataText":"Vehicle Terracan 2.9CRDI"
     },
+    {
+        "index": 7,
+        "dataImg" : "/images/data-imgs/hundaipump7.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Grandeur XG 2.5"
+    },
+    {
+        "index": 8,
+        "dataImg" : "/images/data-imgs/hundaipump5.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle E Mighty"
+    },
+    {
+        "index": 9,
+        "dataImg" : "/images/data-imgs/hundaipump6.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Mighty"
+    },
+    {
+        "index": 10,
+        "dataImg" : "/images/data-imgs/hundaipump8.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Grandeur Tg 2.7"
+    },
+    {
+        "index": 11,
+        "dataImg" : "/images/data-imgs/2hundaipump1.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Nf Sonata"
+    },
+    {
+        "index": 12,
+        "dataImg" : "/images/data-imgs/2hundaipump2.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle EF Sonata"
+    },
+    {
+        "index": 13,
+        "dataImg" : "/images/data-imgs/2hundaipump3.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Terracan 3.5"
+    },
+    {
+        "index": 14,
+        "dataImg" : "/images/data-imgs/2hundaipump4.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle New Santafe"
+    },
 ]
 
 let productList = document.querySelector(".product__list")
