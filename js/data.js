@@ -84,6 +84,54 @@ const booksData = [
         "dataTitle": "Hyundai Water Pump",
         "dataText":"Vehicle New Santafe"
     },
+    {
+        "index": 15,
+        "dataImg" : "/images/data-imgs/2hundaipump5.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Santafe"
+    },
+    {
+        "index": 16,
+        "dataImg" : "/images/data-imgs/2hundaipump6.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle i30"
+    },
+    {
+        "index": 17,
+        "dataImg" : "/images/data-imgs/2hundaipump7.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Avante 1.8"
+    },
+    {
+        "index": 18,
+        "dataImg" : "/images/data-imgs/2hundaipump8.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Avante 1.5 Dohc"
+    },
+    {
+        "index": 19,
+        "dataImg" : "/images/data-imgs/3hundaipump1.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Accent Sohc"
+    },
+    {
+        "index": 20,
+        "dataImg" : "/images/data-imgs/3hundaipump2.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Atos"
+    },
+    {
+        "index": 21,
+        "dataImg" : "/images/data-imgs/3hundaipump3.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle New Porter"
+    },
+    {
+        "index": 22,
+        "dataImg" : "/images/data-imgs/3hundaipump4.jpg",
+        "dataTitle": "Hyundai Water Pump",
+        "dataText":"Vehicle Porter 91"
+    },
 ]
 
 let productList = document.querySelector(".product__list")
