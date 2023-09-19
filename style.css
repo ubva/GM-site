@@ -167,7 +167,7 @@ body {
 .card__item {
   border-radius: 20px;
   width: 18rem;
-  height: 20rem;
+  height: 22rem;
 }
 
 .card__img {
@@ -183,6 +183,12 @@ body {
 .card__box {
   padding: 10px;
   text-align: center;
+}
+
+.cart__text {
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 10px;
 }
 
 .btn {
