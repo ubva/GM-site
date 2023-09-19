@@ -132,6 +132,54 @@ const booksData = [
         "dataTitle": "Hyundai Water Pump",
         "dataText":"Vehicle Porter 91"
     },
+    {
+        "index": 23,
+        "dataImg" : "/images/data-imgs/kiapump1.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Bongo 2.7"
+    },
+    {
+        "index": 24,
+        "dataImg" : "/images/data-imgs/kiapump2.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Opirus"
+    },
+    {
+        "index": 25,
+        "dataImg" : "/images/data-imgs/kiapump3.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Sportage SO"
+    },
+    {
+        "index": 26,
+        "dataImg" : "/images/data-imgs/kiapump4.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Credos 2.0 Dohc"
+    },
+    {
+        "index": 27,
+        "dataImg" : "/images/data-imgs/kiapump5.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Morning"
+    },
+    {
+        "index": 28,
+        "dataImg" : "/images/data-imgs/kiapump6.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle New Pregio"
+    },
+    {
+        "index": 29,
+        "dataImg" : "/images/data-imgs/kiapump7.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Carnival (Diesel)"
+    },
+    {
+        "index": 30,
+        "dataImg" : "/images/data-imgs/kiapump8.jpg",
+        "dataTitle": "Kia Water Pump",
+        "dataText":"Vehicle Canival 2.5 (Gasoline)"
+    },
 ]
 
 let productList = document.querySelector(".product__list")
